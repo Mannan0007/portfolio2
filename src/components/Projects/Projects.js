@@ -28,7 +28,7 @@ function Projects() {
               title="Cloud Connect "
               description="A real-time chat application enabling users to send and receive instant messages with one to one chat rooms and Group chats. Built for fast, reliable, and secure communication across devices."
               ghLink="https://github.com/mannan0007/chat-app"
-              demoLink="https://chatify-49.web.app/"
+              // demoLink="https://chatify-49.web.app/"
             />
           </Col>
 
@@ -39,7 +39,7 @@ function Projects() {
               title="Ping"
               description="A social media platform where users can post their pictures, share their thoughts, and interact with others. Built with a modern, responsive design to enhance user engagement."
               ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
 
@@ -50,7 +50,7 @@ function Projects() {
               title="Campus-Sync"
               description="A complete college management website designed to streamline administrative tasks for students, teachers, and staff. Features include managing student information, attendance, performance tracking, and circular announcements — all from a unified platform."
               ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"
+              // demoLink="https://editor.soumya-jit.tech/"
             />
           </Col>
 
@@ -61,7 +61,7 @@ function Projects() {
               title="GoVenture"
               description="A complete travel booking platform that allows users to book hotels, vacations, and transportation easily. Designed for a seamless and intuitive travel planning experience."
               ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              // demoLink="https://plant49-ai.herokuapp.com/"
             />
           </Col>
 
@@ -71,7 +71,7 @@ function Projects() {
               isBlog={false}
               title="MovieFy"
               description="A web application for managing movies and TV shows, featuring search functionality, trending sections, and personalized watchlists to keep track of favorites easily."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              // ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
             />
           </Col>
         </Row>
