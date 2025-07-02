@@ -38,7 +38,7 @@ function Projects() {
               isBlog={false}
               title="Ping"
               description="A social media platform where users can post their pictures, share their thoughts, and interact with others. Built with a modern, responsive design to enhance user engagement."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              ghLink="https://github.com/Mannan0007/Ping"
               // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
@@ -49,7 +49,7 @@ function Projects() {
               isBlog={false}
               title="Campus-Sync"
               description="A complete college management website designed to streamline administrative tasks for students, teachers, and staff. Features include managing student information, attendance, performance tracking, and circular announcements — all from a unified platform."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
+              ghLink="https://github.com/Mannan0007/Campus-Sync"
               // demoLink="https://editor.soumya-jit.tech/"
             />
           </Col>
