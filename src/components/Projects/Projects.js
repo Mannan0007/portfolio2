@@ -60,8 +60,7 @@ function Projects() {
               isBlog={false}
               title="GoVenture"
               description="A complete travel booking platform that allows users to book hotels, vacations, and transportation easily. Designed for a seamless and intuitive travel planning experience."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              // demoLink="https://plant49-ai.herokuapp.com/"
+              ghLink="https://github.com/Mannan0007/Travel-Booking-Website"
             />
           </Col>
 
@@ -71,7 +70,7 @@ function Projects() {
               isBlog={false}
               title="MovieFy"
               description="A web application for managing movies and TV shows, featuring search functionality, trending sections, and personalized watchlists to keep track of favorites easily."
-              // ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              ghLink="https://github.com/Mannan0007/Moviefy"
             />
           </Col>
         </Row>
